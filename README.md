@@ -22,11 +22,12 @@ The [aiwander.ai](https://aiwander.ai) suite in one installer:
 ### CPC Ops Suite — `CPC-Ops-Suite-Setup-<arch>.exe`
 The operations pair:
 
-> **Beta:** `manager` and its embedded dashboard are **beta** — functional and signed, but expect rough edges. `ops` is stable.
+> **Beta and coming soon:** `manager` and its embedded dashboard are testable, functional,
+> and signed, but the polished public product is not ready. `ops` is stable.
 
 | Server | What it gives your AI |
 |---|---|
-| [manager-universal](https://github.com/AIWander/manager-universal) **(Beta)** | Multi-AI delegation (Claude Code / Codex / Gemini) with a built-in web dashboard (`manager:dashboard_open`) — dashboard is beta as well |
+| [manager-universal](https://github.com/AIWander/manager-universal) **(Beta, coming soon)** | Test surface for multi-AI delegation and the embedded dashboard |
 | [ops](https://github.com/AIWander/ops) | PowerShell + Bash exec, persistent sessions, breadcrumb operation tracking, reminders |
 
 ---
