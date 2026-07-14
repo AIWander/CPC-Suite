@@ -47,6 +47,5 @@ Run the installer, then restart Claude Desktop / Claude Code. Single-product ins
 
 - [GrokCLI](https://github.com/AIWander/GrokCLI) — CPC behavioral skills + lifecycle hooks for Grok Build CLI and Claude Code (protocol layer)
 - [StartHERE](https://github.com/AIWander/StartHERE) — the CPC tour and install path
-- [workflow](https://github.com/AIWander/workflow) · [local](https://github.com/AIWander/local) — additional single-product servers
 
 Apache-2.0 · part of the AIWander / CPC ecosystem.
