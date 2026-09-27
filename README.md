@@ -27,7 +27,7 @@ The operations pair:
 
 | Server | What it gives your AI |
 |---|---|
-| [manager-universal](https://github.com/AIWander/manager-universal) **(Beta, coming soon)** | Test surface for multi-AI delegation and the embedded dashboard |
+| Manager **(beta; repository not public yet)** | Test surface for multi-AI delegation and the embedded dashboard |
 | [ops](https://github.com/AIWander/ops) | PowerShell + Bash exec, persistent sessions, breadcrumb operation tracking, reminders |
 
 ---
